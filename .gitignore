@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java build output
+out/
+build/
+target/
+*.class
+
+# Common package/archive artifacts
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Project folder to ignore
+Low-Level-Design-Course/
+
