@@ -1,0 +1,3 @@
+
+    RegionCategory getCategory();
+}
